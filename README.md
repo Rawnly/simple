@@ -15,6 +15,7 @@ or
   $ sudo npm link
 ```
   
-# Usage 
+# Usage 
 
-Use `config` subcommand to setup enviroment.
+- Use `config` subcommand to setup enviroment.
+- USe `get config` subcommand to get configs. You can also use `get config.quality` to get quality or `get config.dest` to get destination.
