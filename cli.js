@@ -22,9 +22,10 @@ const cli = meow(`
   Usage
     $ simple [subcmd]  [id]
 
-    -d --dest         # Download path.
-    -f --full         # If included it will download the full high-res file.
-    --config          # Commandline config
+    -d --dest       # Download path.
+    -f --full       # If included it will download the full high-res file.
+    config          # Commandline config
+    get config      # Show active configs
 
 `, {
   boolean: [

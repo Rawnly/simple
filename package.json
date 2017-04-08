@@ -1,7 +1,7 @@
 {
-  "name": "simple",
+  "name": "simple-splash-cli",
   "version": "0.1.0",
-  "description": "Simple splash",
+  "description": "Simple SplashCli Tool",
   "main": "cli.js",
   "license": "MIT",
   "dependencies": {
