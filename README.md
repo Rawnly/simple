@@ -15,3 +15,6 @@ or
   $ sudo npm link
 ```
   
+# Usage 
+
+Use `config` subcommand to setup enviroment.
